@@ -1,7 +1,7 @@
 # Zappos Coding Competition
-## March 1, 2016
-## Paradise Cantina, Las Vegas
-## Time spent: 3 hours
+### March 1, 2016
+### Paradise Cantina, Las Vegas
+### Time spent: 3 hours
 
 My solution accomplishes absolutely nothing that was asked for in the competition, but here it is. (See the rules <a href='https://challenge.zappos.biz/problems/number-chain/index.html'>here</a>.)
 
