@@ -1,8 +1,9 @@
-# Zappos Coding Competition March 2016
+# Zappos Coding Competition
+## March 1, 2016
+## Paradise Cantina, Las Vegas
+## Time spent: 3 hours
 
 My solution accomplishes absolutely nothing that was asked for in the competition, but here it is. (See the rules <a href='https://challenge.zappos.biz/problems/number-chain/index.html'>here</a>.)
-
-I spent 3 hours.
 
 Here's my reasoning:
 * If the first number in the pair is larger than the second, only the third operation (adjacent bit-swapping) will reduce the first number and bring it closer to the second. If bit-swapping can't bring the first lower than the second, then no solution exists.

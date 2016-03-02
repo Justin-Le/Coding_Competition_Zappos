@@ -1,6 +1,6 @@
 import time
 
-f = open('zappos.txt', 'r')
+f = open('input.txt', 'r')
 
 nums = [0]*2
 i = 0
